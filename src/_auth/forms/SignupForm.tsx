@@ -22,7 +22,7 @@ import {
 } from "@/lib/react-query/querriesAndMutations";
 import { useUserContext } from "@/context/AuthContext";
 
-const SigninForm = () => {
+const SignupForm = () => {
   const { toast } = useToast();
   const { checkAuthUser, isLoading: isUserLoading } = useUserContext();
   const navigate = useNavigate();
@@ -174,4 +174,4 @@ const SigninForm = () => {
   );
 };
 
-export default SigninForm;
+export default SignupForm;
