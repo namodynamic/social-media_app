@@ -1,4 +1,12 @@
-# React + TypeScript + Vite
+## Snapgram
+[See live](https://snapgram-ap.vercel.app)
+
+![snapgram](https://github.com/namodynamic/social-media_app/assets/126875351/9f9e3f97-37fb-4ca0-8b22-8c045f68b35f)
+
+
+
+## React + TypeScript + Vite
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
